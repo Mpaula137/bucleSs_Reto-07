@@ -5,6 +5,15 @@ Este repositorio es para usar bucles (while)
 
 - Imprimir un listado con los números del 1 al 100 cada uno con su respectivo cuadrado.
 
+```
+#<bloque_prev>
+i=1
+while i<= 100:
+    print ("El cuadrado de", i , "es:" , str(i**2))
+    i +=1
+```
+
+Explicación: 
 ## Segundo punto:
 
 - Imprimir un listado con los números impares desde 1 hasta 999 y seguidamente otro listado con los números pares desde 2 hasta 1000.
