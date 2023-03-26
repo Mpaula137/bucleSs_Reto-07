@@ -15,6 +15,9 @@ while i<= 100:
 
 Explicación: Aca inicializamos la variable i con el valor de 1 para luego decirle al programa que mientras la variable i sea menor o igual a 100 imprimir el cuadrado de este numero, en la ultima parte le decimos al programa que para cada ciclo que se realice se le sume 1 a i.
 
+## Diagrama de flujo:
+[![](https://mermaid.ink/img/pako:eNodT01Pg0AQ_SuTPbW1JMUjERMtVD140ht4mOwOduJ-kGHRGOC_u-vt5X3Nm0XpYEhVarDhR19RIrw3vQd42L141hz2RXH_2HFdfiRwXl6ZfBScgO_q8nTaErl-kxg0JGFtiq61oGc0giaAIWCg5D0cbnO87diNwo4FfKbynURfOr6pS2g9aDQImrUN_9o5tw9op7A-FZ1NUvAmj_LgA0yULrnRUq5-3g3s9zl0yTsTUEflSByySd8tWelVvJKjXlUJGpSvXvV-Sz6cY3j79VpVUWY6qnk0GKlh_BR0qsoLaPsDsLZgaQ?type=png)](https://mermaid.live/edit#pako:eNodT01Pg0AQ_SuTPbW1JMUjERMtVD140ht4mOwOduJ-kGHRGOC_u-vt5X3Nm0XpYEhVarDhR19RIrw3vQd42L141hz2RXH_2HFdfiRwXl6ZfBScgO_q8nTaErl-kxg0JGFtiq61oGc0giaAIWCg5D0cbnO87diNwo4FfKbynURfOr6pS2g9aDQImrUN_9o5tw9op7A-FZ1NUvAmj_LgA0yULrnRUq5-3g3s9zl0yTsTUEflSByySd8tWelVvJKjXlUJGpSvXvV-Sz6cY3j79VpVUWY6qnk0GKlh_BR0qsoLaPsDsLZgaQ)
+
 ## Segundo punto:
 
 - Imprimir un listado con los números impares desde 1 hasta 999 y seguidamente otro listado con los números pares desde 2 hasta 1000.
