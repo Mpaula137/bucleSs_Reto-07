@@ -62,6 +62,9 @@ while i>=2:
 ```
 Explicación: Ponemos primero el input para que usuario ingrese la varibale damos la condición de que mientras "n" sea menor a 2 el programa no va a funcionar porque ingreso un numero menor, luego inicalizamos la variable "i" con el valor de n damos la condición que mientras que "i" sea mayot a 2 y si "i" con modulo 2 es igual a 0 imprimos i pero como queremos la lista descendente le decimos al ciclo que reste dos en cada ciclo valga la rebundancia.
 
+## Diagrama de flujo:
+[![](https://mermaid.ink/img/pako:eNp1kM1OwzAQhF_F8qkVjZT2loggAWlKKZzgFvewsjftqvG6chwQavruOAIJ8XcbjXZmPu1JamdQ5rJp3avegw_iuVR8PVmzJjdNkqubmor5NoqytoQcPHSCLot5mqbRTRQPL-gNGPRuWCY12aMnS17QmFnVSxYaDAhNunWCLorFVvFqrFNcxvxQQdu54S6pOxQGQ5xAge3H_VixnjTE04gU9W1kWYxm9Y0ly7JfKPc_UTZ_o2zGNsXVF8rDvyiPnyhyJi16C2Ti406KhVAy7NGiknmUBvxBScXneAd9cE9vrGUefI8z2R8NBCwJdh6szJu4iOd3-FqATw?type=png)](https://mermaid.live/edit#pako:eNp1kM1OwzAQhF_F8qkVjZT2loggAWlKKZzgFvewsjftqvG6chwQavruOAIJ8XcbjXZmPu1JamdQ5rJp3avegw_iuVR8PVmzJjdNkqubmor5NoqytoQcPHSCLot5mqbRTRQPL-gNGPRuWCY12aMnS17QmFnVSxYaDAhNunWCLorFVvFqrFNcxvxQQdu54S6pOxQGQ5xAge3H_VixnjTE04gU9W1kWYxm9Y0ly7JfKPc_UTZ_o2zGNsXVF8rDvyiPnyhyJi16C2Ti406KhVAy7NGiknmUBvxBScXneAd9cE9vrGUefI8z2R8NBCwJdh6szJu4iOd3-FqATw)
+
 ## Cuarto punto:
 
 - En 2022 el país A tendrá una población de 25 millones de habitantes y el país B de 18:9 millones. Las tasas de crecimiento anual de la población serán de 2% y 3% respectivamente. Desarrollar un algoritmo para informar en que año la población del país B superará a la de A.
