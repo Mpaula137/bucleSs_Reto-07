@@ -43,6 +43,9 @@ while i<=999:
 ```    
 Explicación:  En la primera se incializa en 2 ya que es la lista de los pares y asi contrariamente incializamos el segundo en 1 ya que es el primer impar luego le decimos al programa que mientras i sea menor que 1000 o 900 en cada codigo imprima el par es decir que sumando 2 en cada lista va a dar tanto el impar como el par.
 
+## Diagrama de flujo:
+[![](https://mermaid.ink/img/pako:eNp1kM1OwzAQhF_F8qkVjZT2loggAWlKKZzgFvewsjftqvG6chwQavruOAIJ8XcbjXZmPu1JamdQ5rJp3avegw_iuVR8PVmzJjdNkqubmor5NoqytoQcPHSCLot5mqbRTRQPL-gNGPRuWCY12aMnS17QmFnVSxYaDAhNunWCLorFVvFqrFNcxvxQQdu54S6pOxQGQ5xAge3H_VixnjTE04gU9W1kWYxm9Y0ly7JfKPc_UTZ_o2zGNsXVF8rDvyiPnyhyJi16C2Ti406KhVAy7NGiknmUBvxBScXneAd9cE9vrGUefI8z2R8NBCwJdh6szJu4iOd3-FqATw?type=png)](https://mermaid.live/edit#pako:eNp1kM1OwzAQhF_F8qkVjZT2loggAWlKKZzgFvewsjftqvG6chwQavruOAIJ8XcbjXZmPu1JamdQ5rJp3avegw_iuVR8PVmzJjdNkqubmor5NoqytoQcPHSCLot5mqbRTRQPL-gNGPRuWCY12aMnS17QmFnVSxYaDAhNunWCLorFVvFqrFNcxvxQQdu54S6pOxQGQ5xAge3H_VixnjTE04gU9W1kWYxm9Y0ly7JfKPc_UTZ_o2zGNsXVF8rDvyiPnyhyJi16C2Ti406KhVAy7NGiknmUBvxBScXneAd9cE9vrGUefI8z2R8NBCwJdh6szJu4iOd3-FqATw)
+
 ## Tercer punto:
 
 - Imprimir los números pares en forma descendente hasta 2 que son menores o iguales a un número natural n ≥ 2 dado
@@ -62,8 +65,6 @@ while i>=2:
 ```
 Explicación: Ponemos primero el input para que usuario ingrese la varibale damos la condición de que mientras "n" sea menor a 2 el programa no va a funcionar porque ingreso un numero menor, luego inicalizamos la variable "i" con el valor de n damos la condición que mientras que "i" sea mayot a 2 y si "i" con modulo 2 es igual a 0 imprimos i pero como queremos la lista descendente le decimos al ciclo que reste dos en cada ciclo valga la rebundancia.
 
-## Diagrama de flujo:
-[![](https://mermaid.ink/img/pako:eNp1kM1OwzAQhF_F8qkVjZT2loggAWlKKZzgFvewsjftqvG6chwQavruOAIJ8XcbjXZmPu1JamdQ5rJp3avegw_iuVR8PVmzJjdNkqubmor5NoqytoQcPHSCLot5mqbRTRQPL-gNGPRuWCY12aMnS17QmFnVSxYaDAhNunWCLorFVvFqrFNcxvxQQdu54S6pOxQGQ5xAge3H_VixnjTE04gU9W1kWYxm9Y0ly7JfKPc_UTZ_o2zGNsXVF8rDvyiPnyhyJi16C2Ti406KhVAy7NGiknmUBvxBScXneAd9cE9vrGUefI8z2R8NBCwJdh6szJu4iOd3-FqATw?type=png)](https://mermaid.live/edit#pako:eNp1kM1OwzAQhF_F8qkVjZT2loggAWlKKZzgFvewsjftqvG6chwQavruOAIJ8XcbjXZmPu1JamdQ5rJp3avegw_iuVR8PVmzJjdNkqubmor5NoqytoQcPHSCLot5mqbRTRQPL-gNGPRuWCY12aMnS17QmFnVSxYaDAhNunWCLorFVvFqrFNcxvxQQdu54S6pOxQGQ5xAge3H_VixnjTE04gU9W1kWYxm9Y0ly7JfKPc_UTZ_o2zGNsXVF8rDvyiPnyhyJi16C2Ti406KhVAy7NGiknmUBvxBScXneAd9cE9vrGUefI8z2R8NBCwJdh6szJu4iOd3-FqATw)
 
 ## Cuarto punto:
 
