@@ -65,6 +65,8 @@ while i>=2:
 ```
 Explicación: Ponemos primero el input para que usuario ingrese la varibale damos la condición de que mientras "n" sea menor a 2 el programa no va a funcionar porque ingreso un numero menor, luego inicalizamos la variable "i" con el valor de n damos la condición que mientras que "i" sea mayot a 2 y si "i" con modulo 2 es igual a 0 imprimos i pero como queremos la lista descendente le decimos al ciclo que reste dos en cada ciclo valga la rebundancia.
 
+## Diagrama de flujo:
+[![](https://mermaid.ink/img/pako:eNpVkMFKAzEQhl9lyKmFBqTHRQVtt7qKJ71tehiSaRtMJiWbVWR3391ZFdRbyHz_908yKJscqUodQnq3J8wFXraGbxYNe-vTUuvr25b7SDmBQ5f2huVqMzx54pKxA75cT1rr8Y2yzAUbt7rtCBwVQQgogPU2pL3E6sXO89LwZg4cMHRpbIY6QEyuDwnWEgIG6sAfewyAcDHNdX_ld19yH8_ZR4Fn631bM1h0-F0EMs_UFRSfqBxZn4H11XpmN4ab3_KH2VUoR8_4b9HHn0UNq5WSt0f0Tv5oMAxgVDlRJKMqOTrMr0YZnoTDvqTnD7aqKrmnlerPDgttPR4zRlXNlTR9AtLkfEU?type=png)](https://mermaid.live/edit#pako:eNpVkMFKAzEQhl9lyKmFBqTHRQVtt7qKJ71tehiSaRtMJiWbVWR3391ZFdRbyHz_908yKJscqUodQnq3J8wFXraGbxYNe-vTUuvr25b7SDmBQ5f2huVqMzx54pKxA75cT1rr8Y2yzAUbt7rtCBwVQQgogPU2pL3E6sXO89LwZg4cMHRpbIY6QEyuDwnWEgIG6sAfewyAcDHNdX_ld19yH8_ZR4Fn631bM1h0-F0EMs_UFRSfqBxZn4H11XpmN4ab3_KH2VUoR8_4b9HHn0UNq5WSt0f0Tv5oMAxgVDlRJKMqOTrMr0YZnoTDvqTnD7aqKrmnlerPDgttPR4zRlXNlTR9AtLkfEU)
 
 ## Cuarto punto:
 
@@ -139,6 +141,9 @@ while not numero:
 print("He adivinado!!")
 
 ```
+
+Explicación= Este es otro punto el cual se me dificulto mucho investigando aclare muchas dudas y entendi qu para que el programa adivinara un número primero que todo habia que manejar todo con booleanos luego se tenia que acortar en rangos lo que es nuevo que use fue "respuesta.lower" lo cual se utiliza para buscar algo que se escriba esto sirvio para preguntar al usuario si el numero era mayor al numero que daba la condición de rango luego la condición while ayudaba ya que hacia que se le sumara 1 a las variables a las que lleaba el programa y se pudiera adivinar el número.
+
 ## Septimo punto:
 
 - Implementar un programa que ingrese un número de 2 a 50 y muestre sus divisores.
@@ -159,7 +164,7 @@ else:
 
        divisor +=1 # se tiene que ir sumando un 1 para que se compruebe el siguiente
 ```
-Explicación: Pedimos que al usuario que ingrese una variable llamada ingresado, se le solicitara que ingrese un numero entre 2 y 53 para hallar los divisores, ponemos un condicional en el progrma el cual permitira figar el rango en el cual debe estar el número ingresado y claramente si esta se emprimen los divisores sino se le dice que no sirve el número ingresado, luego declaramos otra variable y la inicializamos en 1 ya que a partir de ahí se tiene que verficar si cumple a ser divisor luego ponemos la condición while es decir mientras el divisor sea menor o igual a numero ingresado seguir con el proceso luego decimos que si el ingresado con modulo de el divisor es igual a 0 quiere decir que es divisor, en cada ciclo se le sumara 1 al divisor para comprobar si es divisor y se le pide al programa imprimir los que cumpla las condiciones.
+Explicación: Pedimos que al usuario que ingrese una variable llamada ingresado, se le solicitara que ingrese un número entre 2 y 53 para hallar los divisores, ponemos un condicional en el programa el cual permitira fijar el rango en el cual debe estar el número ingresado y claramente si esta se emprimen los divisores sino se le dice que no sirve el número ingresado, luego declaramos otra variable y la inicializamos en 1 ya que a partir de ahí se tiene que verficar si cumple a ser divisor luego ponemos la condición while es decir mientras el divisor sea menor o igual a número ingresado seguir con el proceso luego decimos que si el ingresado con modulo de el divisor es igual a 0 quiere decir que es divisor, en cada ciclo se le sumara 1 al divisor para comprobar si es divisor y se le pide al programa imprimir los que cumpla las condiciones.
 
 ## Octavo punto:
 
@@ -188,3 +193,6 @@ while numero <= 100:
     numero +=1
 
 ```
+Explicación: Este me confundio mcuho tuve que pensarlo mucho lo intente y no me daba asi que tuve que buscar guias, luego de buscar guias pude hacerlo usando banderas aunque habian diferentes maneras, como se ve en el código llamo la función y doy una condición la cual dice que si el número es menor o igual a 1, es falso, luego inicalizo la variable "contador" en 2 ya que es el primer numero primo, luego decimos que mientras la variable "contador" sea menor o igual a la raiz del número se da la condición de que el modulo entre el número y el contador sea igual a 0, es falso, ya que se sabe que tiene mas divisores, luego le decimos que el "contador" en cada ciclo tiene que sumar 1 para retonar true si no se cumple la condición, luego damos la condición para que esto se que en un rango menor o igual a 100 claramente llamando a que la funcion se cumpla.
+
+## trate de explicar lo mejor que pude todo lo que realice en este reto, graciass!!! nos vemos en el proximo
